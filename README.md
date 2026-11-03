@@ -239,4 +239,4 @@ This repository serves as the official landing page for Calligra. The software i
 **Get the most recent version of Calligra today!**
 
 ---
-**Last updated:** 2026-11-03 00:38:16 UTC
+**Last updated:** 2026-11-03 07:38:24 UTC
